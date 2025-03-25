@@ -1,2 +1,3 @@
 i am writing my first code
-adding a new line 
+adding a new line
+hi third file 
